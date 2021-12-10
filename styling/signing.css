@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(236, 236, 236);
+    background-image: url("/assets/NBA-All-Star-Secondary-Logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px;
+    opacity: 0.95;
+}
+
+.field {
+    width: 35vw;
+}
+
+.headlabel {
+    color: red;
+    font-weight: 700;
+}
+
+.recall {
+    font-weight: 500;
+    color: black;
+}
+
+.SignUpLink {
+    text-decoration: none;
+    color: rgb(255, 24, 24);
+    font-weight:700;
+}
+
+.SignUpLink:hover {
+    color: black;
+}

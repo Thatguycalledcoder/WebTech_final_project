@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+.navi {
+    justify-content: right;
+}
+
+.landing {
+    background-image:url("../assets/transferslanding2.jpg");
+    height: 600px;
+    background-size: cover;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-clip: content-box;
+}
+
+.userlink {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.link:hover {
+    background-color: white !important;
+    transition: 0.6s;
+}

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserTest::testforFirstName":4,"UserTest::testforRegistration":4,"UserTest::testforExistingAccount":4,"UserTest::testforPlayerDataOutput":4},"times":{"UserTest::testforFirstName":0.015,"UserTest::testforRegistration":4.085,"UserTest::testforExistingAccount":4.079,"UserTest::testforPlayerDataOutput":4.058}}

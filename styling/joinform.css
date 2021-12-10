@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(211, 204, 204);
+}
+
+#formdata {
+    background-color: white;
+    width: 500px;
+}
+
+.comments {
+    padding: 0px;
+    height: 90px;
+    resize: none;
+    padding: 5px;
+}
+
+#JoinLink {
+    color: rgb(24, 113, 185);
+}

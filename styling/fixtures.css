@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.navi {
+    justify-content: right;
+}
+
+#landing {
+    background-image:url("../assets/fixtureslanding.jpg");
+    height: 89vh;
+    background-size: cover;
+    background-color: black;
+    background-repeat: no-repeat;
+    
+}
+
+.notice {
+    color: black;
+    font-weight: 600;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+}
+
+.link:hover {
+    background-color: white !important;
+    transition: 0.6s;
+}
+
+.userlink {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.userlink:hover {
+    background-color: black !important;
+    transition: 0.6s;
+}

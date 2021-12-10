@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+}
+
+.navi {
+    justify-content: right;
+}
+
+.landing {
+    background-image:url("../assets/teamlanding.jpg");
+    height: 550px;
+    background-size: cover;
+    background-color: black;
+    background-repeat: no-repeat;
+}
+
+.testimg {
+    width: 160px;
+    height: 160px;
+    margin-left: 100px;
+}
+
+.staffimg {
+    width: 260px;
+    height: 260px;
+}
+
+#PlayerLink {
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+}
+
+.userlink {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.link:hover {
+    background-color: white !important;
+    transition: 0.6s;
+}

@@ -1,0 +1,13 @@
+.navi {
+    justify-content: right;
+    
+}
+
+.notice {
+    color: black;
+    font-weight: 600;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+}

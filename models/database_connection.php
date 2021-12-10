@@ -4,7 +4,7 @@
     
     define('servername', 'localhost');
     define('username', 'root');
-    define('password', 'basket221');
+    define('password', '');
     define('database', 'project_basket');
 
     class Database {
